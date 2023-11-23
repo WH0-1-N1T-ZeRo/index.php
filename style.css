@@ -1,0 +1,36 @@
+body{
+    overflow-x: hidden;
+}
+.bg{
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card_bg{
+    background-color: rgba(255, 255, 255, 0.587);
+    height: fit-content;
+}
+.mt-aot{
+    margin: 6.5px 0;
+}
+span{
+    text-transform: capitalize;
+}
+.l1,.bg_form{
+    background-color: rgba(0, 0, 0, 0.418);
+    height: 100%;
+    width: 100%;
+}
+.bg_1{
+    background-image: url("https://img.freepik.com/free-photo/aerial-view-mountain-city-nature_23-2150893093.jpg");
+}
+.bg_2{
+    background-image: url("https://img.freepik.com/free-photo/beautiful-mountains-landscape_23-2150787886.jpg");
+}
+th{
+    padding: 0 5px;
+}
+h2{
+    font-weight: bold;
+}
